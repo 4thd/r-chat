@@ -1,0 +1,15 @@
+[package]
+name = "r-chat"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+fltk = "1.4.21"
+tokio = { version = "1.35.1", features = ["full", "macros", "sync"] }
+tokio-tungstenite = "0.21.0"
+mpsc = "0.2.3"
+url = "2.5.0"
+tungstenite = "0.21.0"
+futures = "0.3.30"
