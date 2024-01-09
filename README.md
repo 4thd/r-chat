@@ -2,6 +2,7 @@
 
 This chat application is a real-time messaging tool developed in Rust.
 
+<img src="r-chat/logo.png" alt="Logo" width="300">
 
 ### Features
 - **Real-Time Communication**: Exchange message instantly with other users.
